@@ -55,6 +55,14 @@ body {
    color: white;
 }
 
+@media(max-width:992px)
+{
+   .gaming > .btn{
+      font-size: 12px;}
+   .popular > .btn{
+      font-size: 12px;}
+}
+
 
  
 h2 {
@@ -324,8 +332,6 @@ nav ul li img {
    .box-gaming .img img {
       width: 100%;
    }
-   .gaming > .btn{
-      font-size: 12px;}
 
   .gaming .box-gaming .btn{
 width: 100%;
